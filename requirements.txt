@@ -1,0 +1,7 @@
+argparse
+csvkit
+pysam
+numpy
+pandas
+seaborn
+matplotlib
